@@ -1,0 +1,33 @@
+{
+  "source_commit": "dfb78e2bb2a30e1bdcdbd1a772567b093f9b2852",
+  "files": [
+    {
+      "source_path": "src/fixture_models/laliga_baselines.py",
+      "public_path": "src/fixture_models/laliga_baselines.py",
+      "sha256": "2898adec376bb28e326bfe46634674f3daf15887f83d62886c2c7193a9535e02",
+      "change": "unchanged"
+    },
+    {
+      "source_path": "tests/test_laliga_baselines.py",
+      "public_path": "tests/test_laliga_baselines.py",
+      "sha256": "33417e63f8675ee512c66c11ade2e88120fdb9d83c13b4e2c79aa7a84c9322c5",
+      "change": "unchanged"
+    },
+    {
+      "source_path": "scripts/122_independent_club_v4.py",
+      "source_sha256": "77b598742afc5045adb52d504d6f01918c9d962101c740617894976518f5d7a1",
+      "public_path": "src/fixture_models/independent_features.py",
+      "change": "selected state classes and feature functions copied unchanged; imports and module documentation adapted",
+      "symbols": [
+        "LeagueState",
+        "TeamState",
+        "_expected_home",
+        "_finite",
+        "_mean",
+        "_release",
+        "_snapshot",
+        "build_feature_table"
+      ]
+    }
+  ]
+}
