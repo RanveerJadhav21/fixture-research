@@ -1,4 +1,4 @@
-# Fixture — football forecasting research
+# Fixture: football forecasting research
 
 I started Fixture to explore a question I kept coming back to while watching
 football: how do you turn what you know about two teams into probabilities you
