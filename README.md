@@ -9,6 +9,8 @@ project also has a frontend prototyped with AI assistance. This repository is a
 small, runnable selection of the modeling work, with a fictional dataset so
 someone else can try it without a paid data subscription.
 
+For the frontend side of my work, see my [TypeScript interface projects](https://github.com/RanveerJadhav21/typescript-projects).
+
 ## Try it
 
 Python 3.11 or newer:
