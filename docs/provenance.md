@@ -14,11 +14,8 @@ repository. That history has not been rewritten.
   independent-feature tests and public CI configuration were prepared with AI
   assistance for this showcase. They are not presented as earlier independent work.
 
-The owner identifies the sports-model research/development as their contribution
-and the product frontend as AI-assisted. Repository inspection cannot independently
-attribute every original line to a person. No external contributor or endorsement
-is invented. A machine-readable source manifest records paths and hashes for the
-selected code.
+The broader product frontend was prototyped with AI assistance. The source
+manifest records paths and hashes for the existing research code selected here.
 
 Only newly selected files are published here. The private repository's Git history,
 licensed match records, trained model files, infrastructure, account data and
