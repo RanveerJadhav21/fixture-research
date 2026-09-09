@@ -60,7 +60,7 @@ system. It should not be confused with the independent model discussed here.
 
 The research modules come from my existing Fixture repository; this is not the
 full production app. The public packaging, demo, and additional checks were
-prepared with AI assistance. See [provenance](docs/provenance.md) for exactly what
+prepared with AI assistance (just to see my project in a clearer/cleaner way). See [provenance](docs/provenance.md) for exactly what
 was copied and what was added. No model-training data, provider credentials,
 user records, or production deployment configuration are included.
 
