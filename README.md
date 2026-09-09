@@ -9,8 +9,6 @@ project also has a frontend prototyped with AI assistance. This repository is a
 small, runnable selection of the modeling work, with a fictional dataset so
 someone else can try it without a paid data subscription.
 
-For the frontend side of my work, see my [TypeScript interface projects](https://github.com/RanveerJadhav21/typescript-projects).
-
 ## Try it
 
 Python 3.11 or newer:
@@ -61,9 +59,9 @@ system. It should not be confused with the independent model discussed here.
 ## Scope and provenance
 
 The research modules come from my existing Fixture repository; this is not the
-full production app. The public packaging, demo and additional checks were
+full production app. The public packaging, demo, and additional checks were
 prepared with AI assistance. See [provenance](docs/provenance.md) for exactly what
 was copied and what was added. No model-training data, provider credentials,
-user records or production deployment configuration are included.
+user records, or production deployment configuration are included.
 
 I have also learned through research and resources on GitHub and Reddit. 
