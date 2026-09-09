@@ -66,5 +66,4 @@ prepared with AI assistance. See [provenance](docs/provenance.md) for exactly wh
 was copied and what was added. No model-training data, provider credentials,
 user records or production deployment configuration are included.
 
-I have also learned through research and resources on GitHub and Reddit. This
-repository makes no claim that community members wrote particular components.
+I have also learned through research and resources on GitHub and Reddit. 
